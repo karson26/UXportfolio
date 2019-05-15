@@ -4,5 +4,9 @@
 @import "{{ site.theme }}";
 
 .project-name {
-	color: red;
+	text-align: right;
+}
+
+.main-content img {
+	width: 100%;
 }
