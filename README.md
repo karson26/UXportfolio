@@ -7,9 +7,9 @@
 - 上海对外经贸大学/本科
 
 ## Self intro
-在4A广告公司3年工作经验，从事「交互设计岗位」到 前端开发 的工作，参与众多知名品牌的官网，后台系统和活动页面，包括 系统端，移动端和web端。
-使用工具：sketch，ant design，principle, ps
-雅思：7.0
+在4A广告公司3年工作经验，从事「交互设计岗位」到 前端开发 的工作，参与众多知名品牌的官网，后台系统和活动页面，包括 系统端，移动端和web端。  
+使用工具：sketch，ant design，principle, ps  
+雅思：7.0  
 作品集链接： https://www.zcool.com.cn/work/ZMzYwODYxNjA=.html
 
 ## Experience
