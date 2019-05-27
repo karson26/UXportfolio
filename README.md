@@ -1,4 +1,3 @@
-### Welcome to My Resume
 
 ## Basic info
 - 朱凯顺
