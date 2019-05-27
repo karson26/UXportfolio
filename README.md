@@ -10,7 +10,8 @@
 - 交互工具：sketch，ant design，principle, ps  
 - 开发语言：react等一系列前端语言
 - 雅思：7.0  
-- 作品集链接： https://www.zcool.com.cn/work/ZMzYwODYxNjA=.html
+- 作品集链接：
+<font color="#322e92">https://www.zcool.com.cn/work/ZMzYwODYxNjA=.html</font>
 
 ## Experience
 公司：sapientnitro  
