@@ -11,7 +11,7 @@
 - 熟悉大型团队产品开发流程
 - 开发技术栈：开发过platform网站，react经验丰富，sass，canvas、小程序
 - 雅思7.0，外语沟通无障碍
-- 作品集链接：[请点我！](https://www.notion.so/clevermi/Profolio-04d8c5a8c4ed40bab931e31c3b6a75c2)
+- 作品集链接：[请点我！](https://www.kdocs.cn/l/snDbIEw4m?f=101)
 
 
 # Experience
